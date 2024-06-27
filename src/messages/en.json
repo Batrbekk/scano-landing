@@ -1,0 +1,760 @@
+{
+  "landing": {
+    "mainPage": "Main",
+    "aboutUs": "About us",
+    "features": "Features",
+    "analytic": "Analytics",
+    "login": "Login",
+    "price": "Price",
+    "career": "Career",
+    "main": {
+      "title": "Media monitoring",
+      "subtitle": "Social media monitoring with visual insights!",
+      "subtitle2": "Free demo for 7 days",
+      "try": "Try it now",
+      "example": "See an example",
+      "clientsTitle": "More than <span>100+</span> clients all over Kazakhstan",
+      "function": "Functions",
+      "functionTitle": "Unique features to increase your productivity",
+      "functionCard": {
+        "card1": {
+          "title": "Secure platform",
+          "text": "The system provides reliable data storage, encryption and confidentiality of your personal and business information."
+        },
+        "card2": {
+          "title": "Advanced analytics",
+          "text": "Analysis of metadata using artificial intelligence."
+        },
+        "card3": {
+          "title": "Powerful automation",
+          "text": "Algorithms categorize messages, identify trends, search for mentions in texts on images, and determine the tonality."
+        }
+      },
+      "detail": "In more detail",
+      "unicCards": {
+        "card1": {
+          "title": "Exceptional and easy to use",
+          "text": "The Scano system is a place where social media analytics are conducted, allowing you to save your time and develop your brand in an even more effective way.",
+          "subtitle": "Economically effective",
+          "subtext": "Use customer feedback to make informed business decisions."
+        },
+        "card2": {
+          "title": "An innovative system",
+          "text": "Thanks to modern technologies, we have accelerated the process of collecting information",
+          "subtitle": "Be the first to find out about the most important thing",
+          "subtext": "Monitor materials in real time"
+        },
+        "card3": {
+          "title": "Full control of the information field",
+          "text": "Determine the scope and importance of the mentions. Filter out the noise and focus on what's important",
+          "subtitle": "Track the indicators",
+          "subtext": "Study ready-made overview charts and analytical reports"
+        }
+      },
+      "howIt": {
+        "howItWorks": "How it works ?",
+        "howItTitle": "Work smarter with easy user access.",
+        "howItCards": {
+          "card1": {
+            "title": "01. Create an account",
+            "subtitle": "Create an account",
+            "text": "Find out what people like or dislike about your company. Share information with your entire organization."
+          },
+          "card2": {
+            "title": "02. Confirm",
+            "subtitle": "Confirm your email",
+            "text": "Follow the link and come up with a strong password."
+          },
+          "card3": {
+            "title": "03. Start",
+            "subtitle": "Start working",
+            "text": "Log in and keep up to date with current events."
+          }
+        },
+        "howItStart": "Start"
+      },
+      "statistic": {
+        "title": "Do you want to work with Scano ?",
+        "subtitle": "Test the most functional system for free within one week",
+        "askDemo": "Request a demo",
+        "statisticCard": {
+          "card1": "Media sources covered",
+          "card2": "Social data archive",
+          "card3": "Data points analyzed daily",
+          "card4": "Accuracy of determination"
+        }
+      },
+      "demoForm": {
+        "title": "Start your free trial today",
+        "subtitle": "To use the system, please fill out the form below. We will contact you and tell you how to work with Scano.",
+        "button": "Send",
+        "input": "Your email",
+        "alertSuccess": "Your application has been successfully submitted!",
+        "alertDescription": "The answer will be sent to your email.",
+        "alertError": "An error has occurred on the server!",
+        "alertErrorDesc": "Try again later...",
+        "wait": "Wait"
+      },
+      "footer": {
+        "pages": "Pages",
+        "subtitle": "Convenience",
+        "headTitle": "Collecting publications by keywords in different languages in real time",
+        "title": "Suitable for all devices and screens",
+        "text": "It is possible to use both the mobile version and the full version of the site."
+      }
+    },
+    "about": {
+      "title": "About our company",
+      "subtitle": "Our goal is to enhance the image of your organization using advanced technologies with convenient and simple functionality",
+      "whatWeDo": {
+        "title": "What we do",
+        "text": "We provide an overview of the discussions in the Internet space. We identify potential crises. And warn you about the negative reactions of society."
+      },
+      "mission": {
+        "title": "Our mission",
+        "text": "Help brands analyze social media reviews and interact with customers based on advanced analytics."
+      },
+      "quality": {
+        "subtitle": "Qualities",
+        "title": "History and principles at the core of our company",
+        "qualityCards": {
+          "card1": {
+            "title": "Awareness",
+            "text": "We always strive to stay informed about global updates."
+          },
+          "card2": {
+            "title": "What we do",
+            "text": "We create emotional connections, solve problems, and inspire our clients to achieve outstanding results."
+          },
+          "card3": {
+            "title": "Teamwork",
+            "text": "We have a cohesive and qualified development team and their leader."
+          },
+          "card4": {
+            "title": "Responsibility",
+            "text": "We are committed to providing the highest quality products and services that meet your needs and expectations."
+          }
+        }
+      },
+      "career": {
+        "subtitle": "Career",
+        "title": "Join us! Let's work together!",
+        "banner": {
+          "title": "Can't find a suitable position?",
+          "text": "Don't worry, in any case, contact us, we are always ready to offer you an excellent job!",
+          "button": "Send request"
+        }
+      }
+    },
+    "peculiarities": {
+      "title": "Features",
+      "subtitle": "Create reports and analytics that match your needs. We provide extensive options for data customization and visualization.",
+      "section": {
+        "title": "Features of our platform Scano",
+        "sectionCards": {
+          "card1": {
+            "title": "Kazakh language",
+            "text": "Users of the system will be able to determine the tonality of texts and images or video materials in the Kazakh language with an accuracy of up to 90% within a short time"
+          },
+          "card2": {
+            "title": "User-friendly interface",
+            "text": "A user interface suitable for every person"
+          },
+          "card3": {
+            "title": "Source coverage",
+            "text": "Coverage of the largest number of sources, even the most obscure Kazakh media"
+          }
+        }
+      },
+      "askDemo": "Request a demo"
+    },
+    "analyticPage": {
+      "title": "Analytics",
+      "subtitle": "We provide the opportunity to work with ready-made statistics, together with the function of exporting them",
+      "section": {
+        "title": "Why choose Scano ?",
+        "subtitle": "Functions",
+        "sectionCards": {
+          "card1": {
+            "title": "Quick start",
+            "text": "The interface allows you to solve tasks in a few clicks, and consultants regularly conduct training and help clients."
+          },
+          "card2": {
+            "title": "A cloud of words",
+            "text": "AI identifies trends, automates sentiment analysis and performs other important actions."
+          },
+          "card3": {
+            "title": "Problem solving",
+            "text": "Flexible filtering and transparent metrics help to solve various tasks — from reputation control to creating a communication strategy."
+          }
+        }
+      },
+      "integrations": {
+        "title": "Connect all your tools and work efficiently",
+        "subtitle": "Integrations",
+        "integrationsCards": {
+          "card1": {
+            "title": "Telegram integration",
+            "text": "Connect the telegram group and keep up to date with all the news without logging in"
+          },
+          "card2": {
+            "title": "All in one platform",
+            "text": "Create a theme and work with materials from thousands of different sources"
+          },
+          "card3": {
+            "title": "Extended charts",
+            "text": "View automatically generated analytics"
+          }
+        }
+      }
+    },
+    "careerPage": {
+      "title": "Career",
+      "description": "If you are looking for an opportunity to realize your potential, develop and make a meaningful contribution to a dynamic company, we will be glad to see you in our team.",
+      "callBtn": "View available vacancies",
+      "section": {
+        "title": "The values that define us",
+        "subtitle": "Benefits",
+        "sectionCard": {
+          "card1": {
+            "title": "Employees come first",
+            "text": "We support creativity and innovation by giving employees the opportunity to bring bold ideas to life."
+          },
+          "card2": {
+            "title": "Competitive Wages",
+            "text": "We offer competitive salaries, bonuses and social packages."
+          },
+          "card3": {
+            "title": "Career growth",
+            "text": "We provide many opportunities for learning and development, helping you grow with us."
+          },
+          "card4": {
+            "title": "Vacation",
+            "text": "Every year the company pays for holidays in any country of your choice."
+          },
+          "card5": {
+            "title": "Flexible working hours",
+            "text": "You choose the right time of work for yourself."
+          },
+          "card6": {
+            "title": "Medical insurance",
+            "text": "We take care of the well-being of our employees and offer medical insurance."
+          }
+        }
+      },
+      "vacancies": {
+        "title": "Current open vacancies",
+        "noVac": "There are no vacancies at the moment"
+      },
+      "alertError": "An error has occurred on the server!",
+      "alertErrorDesc": "Try again later...",
+      "sendRequest": "Submit your application"
+    },
+    "pricePage": {
+      "title": "The tariff plan",
+      "description": "Enjoy unlimited mentions, unlimited users, unlimited alerts",
+      "section": {
+        "title": "Simple and flexible pricing",
+        "subtitle": "Prices",
+        "description": "Choose a convenient package for yourself"
+      },
+      "priceCard": {
+        "card1": {
+          "title": "Basic",
+          "priceMonth": "/ month",
+          "priceYear": "by year"
+        },
+        "card2": {
+          "title": "Unlimited",
+          "price": "Depends on your requests",
+          "popular": "Popular"
+        },
+        "start": "Start"
+      },
+      "plans": {
+        "card1": {
+          "themes": "3 topics",
+          "materials": "50 000 materials",
+          "source": "All types of sources",
+          "telegram": "Telegram integration",
+          "users": "Unlimited number of users",
+          "visor": "Visor Dashboard",
+          "rules": "Unlimited rules and notifications",
+          "tone": "Sentiment analysis"
+        },
+        "card2": {
+          "themes": "Unlimited number of topics",
+          "archive": "Archive collection",
+          "channels": "Unlimited number of channels",
+          "tag": "Autotags",
+          "source": "All types of sources",
+          "telegram": "Telegram integration",
+          "visor": "Visor Dashboard",
+          "users": "Unlimited number of users",
+          "rules": "Unlimited rules and notifications",
+          "tone": "Sentiment analysis"
+        }
+      }
+    },
+    "faq": {
+      "card1": {
+        "title": "1. Can I try Scano for free?",
+        "text": "- Of course, we offer a 7-day free trial of the system with no payment required"
+      },
+      "card2": {
+        "title": "2. How is the Unlimited plan configured?",
+        "text": "- We coordinate with you and configure the platform according to your requirements"
+      },
+      "card3": {
+        "title": "3. Can I cancel my subscription at any time?",
+        "text": "- After the agreement period ends, you can cancel your subscription at any time"
+      },
+      "card4": {
+        "title": "4. Is the training on the functionality of the system paid?",
+        "text": "- No, if you have purchased a subscription from us"
+      },
+      "card5": {
+        "title": "5. What payment methods do you accept?",
+        "text": "- We offer the following pricing options for Scano: monthly payment and annual payment"
+      }
+    },
+    "partner": {
+      "samruk": "Samruk-Kazyna",
+      "akimat": "Akimats",
+      "brk": "DBK",
+      "minis": "Departments",
+      "kazmunaigaz": "KazMunaiGas"
+    },
+    "contact": {
+      "title": "Contact us",
+      "fio": "FCs",
+      "mail": "Mail",
+      "telegram": "Telegram Account",
+      "phoneNumber": "Phone number",
+      "letter": "Letter",
+      "send": "Send",
+      "wait": "Wait",
+      "alertSuccess": "Your application has been successfully submitted!",
+      "alertDescription": "The answer will be sent to your email.",
+      "alertError": "An error has occurred on the server!",
+      "alertErrorDesc": "Try again later..."
+    }
+  },
+  "alert": {
+    "success": "Successfully",
+    "successArchive": "The archive collection for the selected period has been uploaded",
+    "successAddMaterial": "The material has been successfully added to the topic",
+    "loginError": "There is an error in the mail or password, try again.",
+    "resetPasswordDescription": "A link to reset your password has been sent to your email",
+    "createTagDescAlert": "The tag has been successfully added to the topic!",
+    "createUserDescAlert": "The user has been successfully added to the system!",
+    "createTagErrorDesc": "The tag already exists in the topic!",
+    "createUserErrorDesc": "The user already exists in the system!",
+    "chooseTheme": "Select a topic",
+    "chooseMaterial": "To get started, choose a material",
+    "confirmMail": "A link to restore your password has been sent to your email",
+    "chooseSources": "Select sources",
+    "chooseAuthors": "Select authors"
+  },
+  "loginPage": {
+    "login": "Login",
+    "quote": "We provide assistance in improving your brand based on in-depth analytics",
+    "author": "© Shymkent 2024. \"Infinity Enterprieses\" LLP",
+    "password": "Password",
+    "subheader": "Enter your e-mail and password to log in",
+    "wait": "Wait",
+    "and": "Or",
+    "forgotPassword": "Forgot password?",
+    "description": "By clicking \"Login\", you agree to our Terms of Service and Privacy Policy.",
+    "loginError": "Enter a correct e-mail",
+    "passwordError": "The password must contain at least 8 characters",
+    "passwordConfirmError": "Passwords don't match, try again!",
+    "serviceDontWork": "The service is temporarily down..."
+  },
+  "forgotPage": {
+    "title": "Password recovery",
+    "desc": "Enter your account's E-mail address",
+    "passwordDesc": "Enter a new password",
+    "activeButton": "Send an e-mail",
+    "toBack": "Come back",
+    "confirmPassword": "Confirm the password"
+  },
+  "confirmMailPage": {
+    "title": "Welcome to SCANO"
+  },
+  "mainPage": {
+    "materialCount": "Material count"
+  },
+  "mainArchive": {
+    "periodArchiveCalendar": "Select a period"
+  },
+  "mainAddMessageTheme": {
+    "breaks1": "Semicolon",
+    "breaks2": "Comma"
+  },
+  "mainCreateTheme": {
+    "luceneQueryReq": "Lucene Query",
+    "excludedUrl": "Enter the URL of the source you want to exclude from monitoring",
+    "hideList": "Hide the list"
+  },
+  "themeMain": {
+    "addMaterial": " Add materials to topic"
+  },
+  "filterBlog": {
+    "from": "From",
+    "to": "To"
+  },
+  "createdTime": "Unloading time",
+  "hello": "hello",
+  "theme": "Topics",
+  "progressTooltip": "You have {balance} left from {limit}",
+  "progressThemeTooltip": "You used {balance} materials out of {limit}",
+  "createTheme": "Create new topic",
+  "groupNotation": "Topic group",
+  "positiveNotation": "Positive",
+  "negativeNotation": "Negative",
+  "neutralNotation": "Neutral",
+  "themeName": "Topic title",
+  "themeToday": "Today",
+  "themeWeek": "Week",
+  "themeAll": "All",
+  "themeType": "Type of topic",
+  "all": "All",
+  "news": "News",
+  "collectionDate": "Data collected from:",
+  "next": "Next",
+  "back": "Back",
+  "paginationCount": "{currentPage} page of {totalPage}",
+  "searchTheme": "Search by title",
+  "show": "Show",
+  "_id": "Numbering",
+  "theme_type": "Topic type",
+  "name": "Topic name",
+  "today": "Today",
+  "week": "Week",
+  "searchByYear": "Archive data search, 1 year max",
+  "archiveCollection": "Archive collection",
+  "addMessageTopic": "Adding materials to a topic",
+  "copyThemeSetting": "Copying topic settings",
+  "archiveReport": "Archive of reports",
+  "copy": "Copy",
+  "delete": "Delete",
+  "edit": "Edit",
+  "stop": "Stop",
+  "action": "Actions",
+  "analytic": "Analytic",
+  "materials": "Materials",
+  "reports": "Reports",
+  "report": "report",
+  "subscribe": "Subscribes",
+  "journal": "Journal",
+  "journalActions": "Action journal",
+  "journalActivities": "Activity journal",
+  "spam": "Spam",
+  "settings": "Settings",
+  "thems": "Topic name",
+  "searchByMaterial": "Search by material",
+  "chooseDate": "Choose a date",
+  "search": "Search",
+  "export": "Export",
+  "filter": "Filter",
+  "filters": "Filters",
+  "clearFilter": "Clear",
+  "apply": "Apply",
+  "close": "Close",
+  "mainFilterTab": "Main",
+  "srcFilterTab": "Source",
+  "authorFilterTab": "Authors",
+  "geoFilterTab": "Geography",
+  "tagFilterTab": "Tags",
+  "tone": "Sentiment",
+  "languages": "Languages",
+  "materialType": "Material type",
+  "post": "Post",
+  "repost": "Repost",
+  "stories": "Stories",
+  "comments": "Comments",
+  "materialLang": "Material language",
+  "srcType": "Source type",
+  "social": "Social media",
+  "video": "Video",
+  "messengerChanel": "Messenger channel",
+  "messengerGroup": "Groups in messengers",
+  "exportToastPending": "Please wait loading...",
+  "exportToastErr": "Oops... Try again.",
+  "feeStore": "Archive history",
+  "chooseTheme": "Select a topic",
+  "period": "Period",
+  "date": "Date",
+  "estimateData": "Start data collection",
+  "archiveSMI": "Annual collection is available for topics such as «Media», «Social Media and Mass Media»",
+  "usedInMonth": "Used this month",
+  "fees": "{fee} fees",
+  "messageLimit": "{message} materials",
+  "aboutLimit": "More about limits",
+  "uploadMessage": "Materials loaded",
+  "collectionInitiator": "Collection initiator",
+  "startDate": "Launch date",
+  "status": "Status",
+  "searchByTheme": "Search by topics",
+  "initiator": "Initiator",
+  "reportInfo": "Reports are stored for no more than 7 days",
+  "created_at": "Created",
+  "created": "Created",
+  "format": "Format",
+  "reportCreator": "Report creator",
+  "download": "Download",
+  "addMessageFile": "Add file",
+  "addMessageOne": "Add one at a time",
+  "save": "Save",
+  "unsaved": "From favorites",
+  "typeMessage": "Material type",
+  "socialMedia": "Social media",
+  "onlineSMI": "Online - media",
+  "header": "Header",
+  "text": "Text",
+  "authorName": "Author name",
+  "linkProfileAuthor": "Link to author's profile",
+  "datePublish": "Publication date",
+  "time": "Time",
+  "country": "Country",
+  "chooseCountry": "Choose a country",
+  "addMessageInfo1": "In this section you can add a material if it was not collected automatically by the system. It will appear in the material feed in the topic and will be taken into account in all statistical sections.",
+  "addMessageInfo2": "The material will be marked as “manually added” and will be available for quick search using filtering in the “Collection type” block",
+  "addMessageInfo3": "You can only add materials to active topics. The required columns in the file are: date, text, link.",
+  "addMessageInfo4": "More about options",
+  "formatUpdateMessage": "CSV format, UTF-8 encoding, no more than 50MB. You can download a zip archive.",
+  "fileMessage": "Material file",
+  "breakColumn": "Column separator",
+  "timezone": "Timezone",
+  "chooseBreakColumn": "Select separator",
+  "chooseTimezone": "Select time zone",
+  "send": "Send",
+  "acceptMiss": "Skip unrecognized data in optional fields",
+  "searchByYearInfo": "You can get quick statistics on a topic you are interested in for the last year without loading data into the system and using tariff limits",
+  "searchRequest": "Search query",
+  "searchLimit": "Up to {limit} words or phrases",
+  "minusWord": "Minus-words",
+  "searchArea": "Search area",
+  "langs": "Languages",
+  "filterLangPlaceholder": "No language filter",
+  "positive": "Positive",
+  "Позитивный": "Positive",
+  "negative": "Negative",
+  "Негативный": "Negative",
+  "neutral": "Neutral",
+  "Нейтральный": "Neutral",
+  "total": "Total",
+  "saved": "To favorites",
+  "share": "Share",
+  "confirmDelete": "Are you sure you want to delete {item}?",
+  "material": "material",
+  "theme-s": "theme",
+  "yes": "Yes",
+  "no": "No",
+  "showAllText": "Show full text",
+  "allText": "Full text",
+  "addTag": "Add a tag",
+  "link": "Link",
+  "linkPlaceholder": "Enter the link to the material you want to add",
+  "exit": "Exit",
+  "profile": "Profile",
+  "technicalSupport": "Contact support",
+  "resume": "Resume",
+  "addTheme": "Adding a topic",
+  "createThemeInfo1": "Not only the search scope, but also the composition of material and report metrics depends on the type.",
+  "description": "Description",
+  "createThemeInfo2": "of the search query language",
+  "createThemeInfo3": "to creating search queries with examples",
+  "detailedGuide": "Detailed guide",
+  "createThemeInfo4": "what type or other source it is.",
+  "createThemeCheck": "Here you can check",
+  "createThemeInfo5": "A channel is a brand or company page on review sites, maps, marketplaces, social networks, app stores, etc.",
+  "detailedAboutRule": "More information about the rules for connecting channels",
+  "createThemeInfo6": "The tonality object is the object in relation to which the tonality is determined.",
+  "details": "Read more",
+  "chooseThemeType": "Select a topic type",
+  "searchWords": "Search words",
+  "videoInWeb": "Network video",
+  "channelsInMessengers": "Channels in messengers",
+  "groupsInMessengers": "Groups in messengers",
+  "textMessage": "Material text",
+  "textPicture": "Text on pictures",
+  "videoTranscript": "Video transcript",
+  "ru": "Russian",
+  "kk": "Kazakh",
+  "en": "English",
+  "excludeSrc": "Exclude source",
+  "excludeSrcLimit": "Up to {limit} sources",
+  "createThemeInfo": "Settings that change when editing a topic do not affect already collected materials. Therefore, we recommend testing your search query at the topic creation stage. To check and optimize the settings, use the “Show results” button.",
+  "chooseThemeSource": "Select topic source",
+  "processedMaterial": "Processed",
+  "unprocessedMaterial": "Unprocessed",
+  "review": "Review",
+  "sources": "Sources",
+  "authors": "Authors",
+  "geography": "Geography",
+  "tags": "Tags",
+  "communities": "Communities",
+  "words": "Words",
+  "persons": "Persons",
+  "legals": "Legal persons",
+  "links": "Links",
+  "inMonth": "By month",
+  "inWeek": "By week",
+  "inDay": " During the day",
+  "inHour": "By hour",
+  "noData": "No data",
+  "chartSourceType": "Materials by source type",
+  "chartSourceTone": "Tonality by source",
+  "chartSourceMessage": "Materials by source",
+  "chartSourceDynamic": "Dynamics by sources",
+  "message": "Materials",
+  "searchBySource": "Search by source",
+  "auditory": "Audience",
+  "involve": "Engagement",
+  "searchByAuthor": "Search by author",
+  "chartAuthorType": "Author type",
+  "chartAuthorDynamic": "Dynamics by authors",
+  "chartAuthorGender": "Gender of authors",
+  "chartAuthorAge": "Age of authors",
+  "countries": "Countries",
+  "cities": "Cities",
+  "city": "City",
+  "searchByCity": "Search by city",
+  "searchByCountry": "Search by country",
+  "percentage": "Percentage",
+  "chartTagMessage": "Materials by tag",
+  "searchByTag": "Search by tag",
+  "tag": "Tag",
+  "blnc": "Balance",
+  "chartTagTone": "Sentiment by tags",
+  "chartTagDynamic": "Dynamics by tags",
+  "loyal": "Loyalty",
+  "createTag": "Create tag",
+  "editTheme": "Edit topic",
+  "createTagTitle": "Creating a new tag",
+  "tagColor": "Tag color",
+  "createTagInfo": "Enter search words or phrases, separated by commas.",
+  "createTagInfo2": "Description of search queries",
+  "allPeriod": "All periods",
+  "month": "Month",
+  "day": "Day",
+  "inputError": "Fill in the field correctly",
+  "rules": "Rules",
+  "dataComposition": "Data composition",
+  "createRule": "Create rule",
+  "createRuleTitle": "Create rule",
+  "markRule": "Mark as processed",
+  "tagRule": "Assign a tag",
+  "toneRule": "Set sentiment",
+  "integration": "Integrations",
+  "integrationTitle": "Set integration with Telegram",
+  "searchByAcc": "Search by account",
+  "acc": "Account",
+  "accType": "Account type",
+  "users": "Users",
+  "photo_url": "Photo",
+  "userName": "Name",
+  "role": "Rights",
+  "nothing": "Absent",
+  "searchByEmail": "Search by E-mail",
+  "admin": "Administrator",
+  "super_admin": "Super administrator",
+  "moderator": "Moderator",
+  "guest": "Guest",
+  "profileUser": "User profile",
+  "addPhoto": "Add photo",
+  "surname": "Surname",
+  "changePassword": "Change password",
+  "newPassword": "New Password",
+  "confirmNewPassword": "Confirming a new password",
+  "editProfileInfo1": "The user's time zone affects the viewing of data in the system interface. Subscriptions and alerts are created in the Super Account Administrator time zone (UTC +6)",
+  "editProfileInfo2": "The password must contain at least 8 characters, include upper and lowercase Latin letters, numbers and special characters.",
+  "editProfile": "Editing a profile",
+  "notification": "Notifications",
+  "createUser": "Create user",
+  "createUserInfo1": "The created user will be sent an email with a password. If necessary, the password can be changed in the settings.",
+  "createUserInfo2": "The administrator has access to all topics with moderator mods, as well as creating new topics and adding users.",
+  "createUserInfo3": "The moderator has the ability to view and edit topics for which he has moderator rights.",
+  "rule": "Rights",
+  "createNotification": "Create notification",
+  "createNotificationTitle": "Adding a notification",
+  "chooseSubs": "Select subscription",
+  "addTelegramChat": "Add Telegram chat",
+  "company_name": "Company",
+  "email_list": "E-mail",
+  "telegram_channel_ids": "Telegram",
+  "editNotificationTitle": "Editing a notification",
+  "subheader": "Subtitle",
+  "createSubs": "Create a subscription",
+  "file_format_types": "Format",
+  "createSubsTitle": "Create a subscription",
+  "emailLimit": "You can enter several emails separated by commas (no more than {limit})",
+  "editSubsTitle": "Editing a subscription",
+  "chooseAll": "Choose all",
+  "social_network": "Social media",
+  "messenger_chanel": "Messenger channel",
+  "messenger_group": "Groups in messengers",
+  "pauseThemeDate": "The actions of this topic have been suspended",
+  "trash": "Basket",
+  "noMaterial": "No materials for the selected period",
+  "fullFilter": "Advanced filter",
+  "comment": "Comment",
+  "typeSubs": "Notification type",
+  "chooseTelegram": "Select Telegram channel",
+  "hour": "Within an hour",
+  "source": "Source",
+  "author": "Author",
+  "male": "Male",
+  "female": "Female",
+  "person": "Personal profile",
+  "group": "Community",
+  "company": "Mass media account",
+  "0,18": "under the age of 18",
+  "18,24": "18-24 years",
+  "24,34": "24-34 years",
+  "34,44": "34-44 years",
+  "44,54": "44-54 years",
+  "55,100": "55 years and older",
+  "editTagTitle": "Edit tag",
+  "resumeMaterial": "Restoration of materials",
+  "noBasketEmpty": "The basket is empty",
+  "sortBy": "Sort by",
+  "sortByCreated": "Creation",
+  "sortByComments": "Comments",
+  "sortByLikes": "Likes",
+  "sortByReposts": "Reposts",
+  "sortByViews": "Views",
+  "materialCount": "Material count",
+  "restore": "Restore",
+  "full_name": "Full name",
+  "email": "E-mail",
+  "userRole": "Role",
+  "telegramChannel": "Telegram channel",
+  "conditions": "Conditions",
+  "other": "Other",
+  "unknown": "Unknown",
+  "authorCount": "Author count",
+  "Мужчины": "Male",
+  "Женщины": "Female",
+  "Другое": "Other",
+  "Неизвестно": "Unknown",
+  "processed": "Processed",
+  "unprocessed": "Unprocessed",
+  "favorite": "Favorites",
+  "addTagTitle": "Add a tag",
+  "telegram_channels": "Telegram channels",
+  "navigation": "Navigation",
+  "calendar": "Calendar",
+  "half_an_hour": "30 minutes",
+  "quarter_an_hour": "15 minutes",
+  "running": "Running",
+  "completed": "Completed",
+  "addedManually": "Manually",
+  "filterBySource": "Filter by source",
+  "deleteSource": "Delete source",
+  "deleteAuthor": "Delete author",
+  "author's": "author",
+  "doFilter": "Filter"
+}
