@@ -327,11 +327,13 @@
     },
     "contact": {
       "title": "Contact us",
+      "titleVac": "Response to the vacancy",
       "fio": "FCs",
       "mail": "Mail",
       "telegram": "Telegram Account",
       "phoneNumber": "Phone number",
       "letter": "Letter",
+      "coverLetter": "Cover letter",
       "send": "Send",
       "wait": "Wait",
       "alertSuccess": "Your application has been successfully submitted!",
